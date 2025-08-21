@@ -1287,7 +1287,8 @@ const Projects = ({ isVisible }) => {
       shortDescription:
         "Analyzed Swiggy data for customer patterns & retention.",
       technologies: "SQL",
-      image: "https://placehold.co/600x400/e0e7ff/334155?text=Swiggy+Analysis",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcNDzI3EISzKPFMnP1R3NNkGHCEgPR-QDCw&s",
       demoLink: "#",
       githubLink: "https://github.com/yourgithub/swiggy_data_analysis",
     },
@@ -1298,7 +1299,8 @@ const Projects = ({ isVisible }) => {
         "Developed 4 interactive Power BI dashboards for revenue, profit, and trends across 6 regions. Automated ETL in SQL, reducing data refresh time by 50%. Identified underperforming regions, leading to strategies that boosted sales by 18% in Q2.",
       shortDescription: "Interactive Power BI dashboards for regional sales.",
       technologies: "SQL, Power BI",
-      image: "https://placehold.co/600x400/dbeafe/1e3a8a?text=Sales+Dashboard",
+      image:
+        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fmicrosoft-power-bi-logo-on-samsung-tablet--612137774345994991%2F&psig=AOvVaw13rEKfk7VzWRxCAQRl4AtY&ust=1755892174890000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNis7Z3WnI8DFQAAAAAdAAAAABAM",
       demoLink: "#",
       githubLink: "https://github.com/yourgithub/sales_regional_dashboard",
     },
@@ -1309,7 +1311,8 @@ const Projects = ({ isVisible }) => {
         "Collected, cleaned, and transformed IPL 2024 match and player statistics using Python (Pandas). Prepared a robust data model for Power BI, enabling deep analysis of team performance, player metrics, and game trends.",
       shortDescription: "Data preparation for IPL 2024 Power BI dashboard.",
       technologies: "Python, Data Cleaning, Power BI",
-      image: "https://placehold.co/600x400/c7d2fe/3730a3?text=IPL+Stats",
+      image:
+        "https://www.indiafantasy.com/wp-content/uploads/IPL-all-team-logo.jpg",
       demoLink: "#",
       githubLink: "https://github.com/yourgithub/ipl_2024_data_prep",
     },
